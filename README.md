@@ -1,2 +1,2 @@
 # CalculatorProgram
-Program that simulates a calculator (made in C# - 24/04/2019)
+Program that simulates a calculator (made in C# - 04/24/2019)
